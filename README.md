@@ -1,14 +1,16 @@
-### Hi there 👋
-I'm a brazillian software developer with a passion for problem solving
+### Hi there, I'm Nicholas 
+# I'm a brazillian software developer
 
-<img src="https://www.codewars.com/users/nicholas1301/badges/small">
-<a href="https://www.codewars.com/users/nicholas1301" target="_blank"></a>
+Some things about me:
 
-[![Nicholas' GitHub stats](https://github-readme-stats.vercel.app/api?username=nicholas1301)](https://github.com/nicholas1301/github-readme-stats)
+- 💡 Curious and passionate about problem solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🧑‍🔬 Former <a href="https://link.springer.com/article/10.1007/s10701-020-00321-z" target="_blank" > theoretical physicist </a>
+
+- ⚔️ Kyu 3 codewarrior
+<a href="https://www.codewars.com/users/nicholas1301" target="_blank"> <img src="https://www.codewars.com/users/nicholas1301/badges/small"> </a>
+
+- 🎮 Games I like to play: Paladins, Dark Souls, <a href="https://github.com/nicholas1301/minesweeper-clone" target="_blank">minesweeper</a>
+
+- 🌱 Currently learning NodeJS, Express, Redux
+
