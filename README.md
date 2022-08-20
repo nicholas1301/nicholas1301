@@ -12,3 +12,5 @@ Some things about me:
 - 🎮 Favorite games: Paladins, Dark Souls, <a href="https://github.com/nicholas1301/minesweeper-clone" target="_blank">minesweeper</a>, Hollow Knight
 
 - 🌱 Currently learning NodeJS, Express, Redux
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholas1301)](https://github.com/nicholas1301/github-readme-stats)
