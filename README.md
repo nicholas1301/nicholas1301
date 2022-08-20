@@ -1,4 +1,4 @@
-## Hi there, I'm Nicholas 
+## Hi there, I'm Nicholas 👋
 
 Some things about me:
 
