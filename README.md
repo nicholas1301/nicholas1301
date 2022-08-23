@@ -10,7 +10,6 @@ Some things about me:
 
 - 🎮 Favorite games: Paladins, Dark Souls, <a href="https://github.com/nicholas1301/minesweeper-clone" target="_blank">minesweeper</a>, Hollow Knight
 
-- 💻 Currently pursuing web development, but if you know about any entry-level opportunities in game development, let me know! 
 
   <a href="https://www.linkedin.com/in/nicholas-engelbert/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
