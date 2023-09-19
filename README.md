@@ -8,8 +8,6 @@ Some things about me:
 
 - ⚔️ Kyu 2 codewarrior: <a href="https://www.codewars.com/users/nicholas1301" target="_blank"> <img align="center" src="https://www.codewars.com/users/nicholas1301/badges/small"> </a>
 
-- 🎮 Favorite games: Overwatch, Dark Souls, Factorio, Hollow Knight, <a href="https://github.com/nicholas1301/minesweeper-clone" target="_blank">minesweeper</a>
-
 
   <a href="https://www.linkedin.com/in/nicholas-engelbert/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
